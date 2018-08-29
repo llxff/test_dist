@@ -11,4 +11,4 @@ done
 
 set -e
 
-bin/test_dist rpc Elixir.Tasks run
+bin/test_dist rpc 'Tasks.run()'
